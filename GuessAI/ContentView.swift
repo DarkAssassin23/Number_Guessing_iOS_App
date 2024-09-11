@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  GuessAI
+//  NumberGuessingAI
 //
 //  Created by DarkAssassin23 on 9/4/24.
 //

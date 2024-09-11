@@ -1,6 +1,6 @@
 //
 //  Brain.swift
-//  Guesser
+//  NumberGuessingAI
 //
 //  Created by DarkAssassin23 on 9/4/24.
 //
